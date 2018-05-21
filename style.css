@@ -1,0 +1,49 @@
+html {
+    height: 100%;
+  }
+ body {
+     width: 800px;
+     margin: 0 auto;
+     padding-top: 5px;
+     height: 100%;
+  }
+ header {
+      background-color:rgb(102, 194, 201);
+      color:red;
+      text-align: center;
+      padding: 5px;
+      font-size: 20px;
+      display: block;
+      width: 790px;
+  }
+ nav {
+      line-height:30px;
+      background-color:#eeeeee;
+      min-height:100%;
+      width:125px;
+      display: inline-block;
+      vertical-align: top;
+      padding: 5px;
+      font-size: 18px;
+  }
+ nav ul {
+      list-style-type: none;
+  }
+ a {
+     color: black;
+  }
+ section {
+      width: 516px;
+      display: inline-block;
+  }
+ footer {
+      width: 790px;
+      background-color:black;
+      color:white;
+      text-align: center;
+      padding: 5px;
+      display: block;
+  }
+#hiking-summary { 
+    color: blue
+}
